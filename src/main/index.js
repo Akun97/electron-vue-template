@@ -24,7 +24,7 @@ function createWindow () {
    * Initial window options
    */
   mainWindow = new BrowserWindow({
-    title: 'ac_tools',
+    title: 'electron-vue-template',
     width: 1280,
     height: 800,
     minWidth: 1280,

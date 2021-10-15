@@ -1,5 +1,5 @@
 {
-  "name": "ac_tools",
+  "name": "electron-vue-template",
   "version": "0.0.1",
   "author": "Akun97 <17759735780@163.com>",
   "description": "An electron-vue project",
@@ -19,7 +19,7 @@
     "postinstall": ""
   },
   "build": {
-    "productName": "ac_tools",
+    "productName": "electron-vue-template",
     "appId": "com.these.actools",
     "directories": {
       "output": "build"

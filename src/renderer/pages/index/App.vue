@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'ac_tools_index'
+    name: 'electron-vue-template_index'
   }
 </script>
 

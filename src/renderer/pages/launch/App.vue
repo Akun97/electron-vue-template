@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'ac_tools_launch'
+    name: 'electron-vue-template_launch'
   }
 </script>
 
